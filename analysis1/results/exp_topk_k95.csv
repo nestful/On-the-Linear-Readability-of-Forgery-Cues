@@ -1,0 +1,13 @@
+model,domain,k95
+clip,forensynths_test,8
+clip,9gan,1
+clip,diffusion,4
+dinov2,forensynths_test,16
+dinov2,9gan,4
+dinov2,diffusion,32
+mae,forensynths_test,32
+mae,9gan,64
+mae,diffusion,32
+vit,forensynths_test,64
+vit,9gan,4
+vit,diffusion,1

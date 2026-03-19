@@ -1,0 +1,9 @@
+row_name,forensynths_test,9gan,diffusion
+clip-frozen_linear,0.9756,0.994,0.8985
+clip-frozen_mlp,0.9796,0.9939,0.8889
+dinov2-frozen_linear,0.9042,0.8586,
+dinov2-frozen_mlp,0.9314,0.8845,
+mae-frozen_linear,0.8652,0.8909,0.8742
+mae-frozen_mlp,0.8997,0.9048,0.8639
+vit-frozen_linear,0.7756,0.7446,
+vit-frozen_mlp,0.7966,0.7433,

@@ -1,0 +1,13 @@
+model,domain,mean_source_consistency
+clip,9gan,0.7958861059612699
+clip,diffusion,0.7951096956218991
+clip,forensynths_test,0.5040812637224528
+dinov2,9gan,0.7341524130768247
+dinov2,diffusion,0.6857556125947407
+dinov2,forensynths_test,0.42057909204491545
+mae,9gan,0.1408510618817268
+mae,diffusion,0.521810928825289
+mae,forensynths_test,0.3034757913223335
+vit,9gan,0.26318345956193906
+vit,diffusion,0.5382691021243643
+vit,forensynths_test,0.13393012283735775
